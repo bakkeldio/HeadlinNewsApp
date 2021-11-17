@@ -7,5 +7,5 @@ Kotlin, MVVM, Hilt for DI, Navigation Component, Glide for loading images from A
 &nbsp; &nbsp;
   <img alt="Filtering" src="app/src/main/res/drawable/app_screenshots_2.jpg" height="550" width="250"/>
 &nbsp; &nbsp;
-  <img alt="Searching" src="app/src/main/res/drawable/app_screenshots_3.jpg" heigh="550" width="250"/>
+  <img alt="Searching" src="app/src/main/res/drawable/app_screenshots_3.jpg" height="550" width="250"/>
 </p>
