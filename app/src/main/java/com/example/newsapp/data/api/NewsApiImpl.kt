@@ -30,6 +30,7 @@ class NewsApiImpl @Inject constructor(private val client: HttpClient) : INewsApi
                 parameter("q", it)
             }
             parameter("category", filterParameters.category.value)
+            parameter("country", "us")
         }
     }
 }
